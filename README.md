@@ -5,7 +5,7 @@ A Discord Mass Dm Self Bot Made With The Latest Version Of Selfcord.py
 
 WARNINGS (READ THEM):
 
-NEVER USE THE MASS DM TOOL WITHOUT A VPN AND HAVING ALL DISCORD TABS/APPS CLOSED! Why? Because The Self Bot Has All Intents, Having Intents Go Through The Gateway When Automating A User Account Is The Most Easiest Way To Get Detected By Discord And Get Banned From Discord Services
+NEVER USE THE MASS DM TOOL WITHOUT A VPN AND HAVING ALL DISCORD TABS/APPS CLOSED! Why? Because The Self Bot Has All Intents, Having Intents Go Through The Gateway When Automating A User Account Is The Most Easiest Way To Get Detected By Discord And Get Banned From Discord Services. So Use A VPN When Selfbotting. (I Don't Think Having An Alt Account (That Was Made For Testing) Terminated Matters Too Much If You Are Gonna Test It On A Alt)
 
 
 Notes:
