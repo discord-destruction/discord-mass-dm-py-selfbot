@@ -1,4 +1,3 @@
-import asyncio
 from datetime import datetime
 import discord
 from discord.ext import commands
@@ -68,8 +67,6 @@ async def on_guild_join(guild: discord.Guild):
                     print(f"{bcolors.FAIL}**** ERROR [{datetime.now()}]: --- Unable To Send The Message To {member.name}#{member.discriminator} (404 FORBIDDEN [The Users's DM's Are Closed])")
                     pass
     else:
-        print("Ok, I Guess We Are Not Doing Any Mass DM Bombs Today! See Ya!")
-        await asyncio.sleep(3.6)
-        exit()
+        print(f"Ok, I Guess We Are Not Doing Any Mass DM Bombs On {guild.name}")
 
 bot.run(TOKEN)
