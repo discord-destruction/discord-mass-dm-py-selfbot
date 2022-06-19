@@ -20,6 +20,15 @@ In Order To Get The Option To Mass Dm Every user In A Server, You Have To Join A
 ---------------------
 
 
+
+
+---------------------
+
+I Am Not Responsible For Any Lack Of Damage Made Using This Tool. As It Is Not My Damage That I Occured, It Is Yours And How You Use This Tool.
+
+---------------------
+
+
 You Can Find The Releases Here: https://github.com/discord-destruction/discord-mass-dm-py-selfbot/releases
 
 
