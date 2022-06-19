@@ -12,3 +12,8 @@ Open The Terminal In The Top Level Directory Of The Repo And Run This In The Ter
 ```
 build
 ```
+
+If You Are Not On A Windows OS. Then Go To The "sources" Folder And Open A Terminal There And Type: 
+```
+python3 build.py build
+```
