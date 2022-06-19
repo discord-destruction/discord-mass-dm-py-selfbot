@@ -7,6 +7,7 @@ Before Using The Python Source Code, Make Sure To Have Selfcord Installed. https
 
 
 Building:
+
 Open The Terminal In The Top Level Directory Of The Repo And Run This In The Terminal:
 ```
 build
