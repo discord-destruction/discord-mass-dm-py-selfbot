@@ -33,7 +33,7 @@ You Can Find The Releases Here: https://github.com/discord-destruction/discord-m
 
 
 
-Before Using The Python Source Code, Make Sure To Have Selfcord Installed. https://github.com/cwz6h/selfcord
+
 
 
 Building:
